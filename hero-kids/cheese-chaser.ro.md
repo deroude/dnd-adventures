@@ -129,13 +129,12 @@ Se confirmă că tot cașcavalul a ajuns aici, firmituri în barcă și spre pe�
 - Special: vorbit cu animalele
 - Inventar: 2 sticluțe cu medicament magic, o sticluță cu gheață instant, funie
 
-### Detectiv
+### Vrăjitor
 
-- Armă: arc
 - Armură: 1
-- Calități: Dexteritate 2
+- Calități: Inteligență 2
 - Abilități: Persuasiune 2, Furișare 2
-- Special: deghizare
+- Special: citește gânduri
 - Inventar: 2 sticluțe cu medicament magic, o cheie universală, un praf de strănutat
 
 ## Rezolvarea jocului
