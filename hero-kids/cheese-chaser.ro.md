@@ -64,10 +64,13 @@ Nici fermierul, nici doamna Telemeu miros puternic a usturoi, nu a brânză, spr
 - Convins Hopțop să identifice toți șoarecii din târg DC4
 - Convins Bond să se alăture grupului DC2
 
-#### Dexteritate
+#### Acrobație
 
 - Cățărat pe statuia vacii DC3
 - Ajuns în spatele magaziei DC3
+
+#### Furișare
+
 - Furișare în magazie DC3
 
 ## Peștera Chițchițișoara
@@ -106,27 +109,32 @@ Se confirmă că tot cașcavalul a ajuns aici, firmituri în barcă și spre pe�
 - Intimidat membrii bandei să se predea DC5 
 - Intimidat Guzman să se predea DC4 (doar dacă e prezentă Mormicuța)
 
-#### Dexteritate
+#### Acrobație
 
 - Escaladat intrarea în peșteră DC3
 - Ajutat Mormicuța să urce în peșteră DC3
+
+#### Furișare
+
 - Furișat pe lângă banda de hoți DC4
 
 ## Caractere
 
 ### Pădurar
 
-- Armă: toiag 2D6
-- Armură: 2D6
-- Abilități: Percepție 2, Dexteritate 2
+- Armă: toiag
+- Armură: 2
+- Calități: Dexteritate 2
+- Abilități: Percepție 2, Acrobație 2
 - Special: vorbit cu animalele
 - Inventar: 2 sticluțe cu medicament magic, o sticluță cu gheață instant, funie
 
 ### Detectiv
 
-- Armă: arc 2D6
-- Armură: D6
-- Abilități: Persuasiune 2, Dexteritate 2
+- Armă: arc
+- Armură: 1
+- Calități: Dexteritate 2
+- Abilități: Persuasiune 2, Furișare 2
 - Special: deghizare
 - Inventar: 2 sticluțe cu medicament magic, o cheie universală, un praf de strănutat
 
